@@ -10,5 +10,7 @@ line {
 rect {
     stroke: cornsilk;
     stroke-width: 2px;
+    stroke-opacity: .5;
     fill: seagreen;
+    fill-opacity: .6;
 }
