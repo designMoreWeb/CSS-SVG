@@ -14,3 +14,23 @@ rect {
     fill: seagreen;
     fill-opacity: .6;
 }
+
+circle {
+    stroke: cornsilk;
+    stroke-width: 2px;
+    stroke-opacity: .5;
+    fill: paleturquoise;
+}
+
+ellipse{
+    stroke: azure;
+    stroke-width: 2px;
+    stroke-opacity: .5;
+    fill: darkslategrey;
+}
+
+text{
+    fill:yellow;
+    stroke: black;
+    stroke-width: 1px;
+}
