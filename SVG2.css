@@ -1,0 +1,22 @@
+svg{
+    background-color: azure;
+}
+
+polygon{
+    fill: tomato;
+    stroke: black;
+    stroke-width:5;
+}
+
+polyline{
+    fill: none;
+    stroke:teal;
+    stroke-width:2;
+} 
+
+path{
+    fill: yellow;
+    stroke: black;
+    stroke-width: 2;
+
+}
