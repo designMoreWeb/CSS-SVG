@@ -1,0 +1,14 @@
+svg{
+    background-color: salmon;
+}
+
+line{
+    stroke: black;
+    stroke-width: 2px;
+}
+
+rect{
+    stroke: cornsilk;
+    stroke-width: 5px;
+    fill:seagreensv;
+}
