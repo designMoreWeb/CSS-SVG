@@ -1,14 +1,14 @@
-svg{
+svg {
     background-color: salmon;
 }
 
-line{
+line {
     stroke: black;
-    stroke-width: 2px;
+    stroke-width: 3px;
 }
 
-rect{
+rect {
     stroke: cornsilk;
-    stroke-width: 5px;
-    fill:seagreensv;
+    stroke-width: 2px;
+    fill: seagreen;
 }
